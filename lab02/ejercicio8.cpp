@@ -1,5 +1,5 @@
 /*
-Escribir un programa que genere la tabla de multiplicar de un número introducido por
+8. Escribir un programa que genere la tabla de multiplicar de un número introducido por
 el teclado.
 */
 
